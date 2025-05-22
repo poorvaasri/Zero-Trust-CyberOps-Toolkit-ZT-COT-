@@ -102,4 +102,3 @@ This project is created for academic purposes and is open for educational and no
 
 ---
 
-Would you like me to export this into a downloadable `README.md` file?
