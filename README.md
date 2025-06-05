@@ -91,7 +91,9 @@ The **Zero Trust CyberOps Toolkit (ZT-COT)** is a self-contained, Python-based s
 
 ## Authors
 
-* **Poorvaa Sri B** – E0222033
+* **Poorvaa Sri B** – E0222033  
+ *B.Tech CSE – Cyber Security & IoT*
+  Sri Ramachandra Faculty of Engineering and Technology, Chennai
 * **Srivarshini K** – E0222051
   *B.Tech CSE – Cyber Security & IoT*
   Sri Ramachandra Faculty of Engineering and Technology, Chennai
